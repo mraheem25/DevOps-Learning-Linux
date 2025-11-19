@@ -1,10 +1,10 @@
 # Level 8 --> 9
 
-## Task 
+## 🎯Task 
 
 The password for the next level is stored in the file data.txt and is the only line of text that occurs only once
 
-## Solution 1
+## ✅Solution 1
 
 1. `ls`
    - Lists the contents of the current directory
@@ -14,7 +14,7 @@ The password for the next level is stored in the file data.txt and is the only l
      `-u` only prints unique lines (lines that only appear once)
 2. Password - 4CKMh1JI91bUIZZPXDqGanal4xvAg0JM
 
-## Solution 2
+## ✅Solution 2
 
 1. `ls`
    - Lists the contents of the current directory
