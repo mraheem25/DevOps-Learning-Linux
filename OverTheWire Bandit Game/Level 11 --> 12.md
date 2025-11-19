@@ -1,9 +1,9 @@
 # Level 11 --> 12
 
-## Task 
+## 🎯Task 
 The password for the next level is stored in the file data.txt, where all lowercase (a-z) and uppercase (A-Z) letters have been rotated by 13 positions.
 
-## Solution 1
+## ✅Solution 1
 
 1. `ls`
    - Lists contents of current working directory
@@ -12,7 +12,7 @@ The password for the next level is stored in the file data.txt, where all lowerc
        - `A-Z` becomes N-ZA-M
 3. Password - 7x16WNeHIi5YkIhWsfFIqoognUTyj9Q4
 
-## Solution 2 
+## ✅Solution 2 
 
 1. `ls`
    - Lists contents of current working directory
