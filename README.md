@@ -12,7 +12,7 @@ This repository documents my learning journey in understanding the funadmentals 
 | **Search & Inspect**  | `grep`, `find`, `du`, `file`, `strings`, `xxd`                      |
 | **Permissions**       | `chmod` (numeric & symbolic), `chown`, `chgrp`                      |
 | **Users & Groups**    | `useradd`, `usermod`, `passwd`, `/etc/passwd`, `groups`             |
-| **Streams & Pipes**   | `>`, `>>`, `2>`   |`, `/dev/null`                                   |
+| **Streams & Pipes**   | `>`, `>>`, `2>/dev/null`                                            |
 | **Environment**       | `$PATH`, `export`, aliases, `.zshrc` tweaks                         |
 
 ---
