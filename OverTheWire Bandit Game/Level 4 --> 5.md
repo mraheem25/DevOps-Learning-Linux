@@ -1,9 +1,9 @@
 # Level 4 --> 5
 
-## Task
+## 🎯Task
 The password for the next level is stored in the only human-readable file in the `inhere` directory. 
 
-## Solution
+## ✅Solution
 1. `ls`
    - List contents of current directory
 2. `cd inhere`
