@@ -1,9 +1,9 @@
 # Level 1 --> 2
 
-## Task
+## 🎯 Task
 The password for the next level is stored in a file called `-` located in the home directory
 
-## Solution
+## ✅ Solution
 1. `ls`
    - List contents of current directory
 3. `cat ./-`
